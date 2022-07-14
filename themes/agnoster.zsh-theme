@@ -267,6 +267,7 @@ build_prompt() {
   prompt_bzr
   prompt_hg
   prompt_end
+  prompt_clear
   prompt_git
   prompt_status
   prompt_clear
